@@ -1,0 +1,596 @@
+[
+    {
+        "country": "aus"
+    },
+    {
+        "country": "aut"
+    },
+    {
+        "country": "aze"
+    },
+    {
+        "country": "alb"
+    },
+    {
+        "country": "dza"
+    },
+    {
+        "country": "aia"
+    },
+    {
+        "country": "ago"
+    },
+    {
+        "country": "and"
+    },
+    {
+        "country": "ata"
+    },
+    {
+        "country": "atg"
+    },
+    {
+        "country": "arg"
+    },
+    {
+        "country": "arm"
+    },
+    {
+        "country": "abw"
+    },
+    {
+        "country": "afg"
+    },
+    {
+        "country": "bhs"
+    },
+    {
+        "country": "bgd"
+    },
+    {
+        "country": "brb"
+    },
+    {
+        "country": "bhr"
+    },
+    {
+        "country": "blr"
+    },
+    {
+        "country": "blz"
+    },
+    {
+        "country": "bel"
+    },
+    {
+        "country": "ben"
+    },
+    {
+        "country": "bgr"
+    },
+    {
+        "country": "bol"
+    },
+    {
+        "country": "bih"
+    },
+    {
+        "country": "bwa"
+    },
+    {
+        "country": "bra"
+    },
+    {
+        "country": "vgb"
+    },
+    {
+        "country": "brn"
+    },
+    {
+        "country": "bdi"
+    },
+    {
+        "country": "btn"
+    },
+    {
+        "country": "vut"
+    },
+    {
+        "country": "vat"
+    },
+    {
+        "country": "gbr"
+    },
+    {
+        "country": "hun"
+    },
+    {
+        "country": "ven"
+    },
+    {
+        "country": "vir"
+    },
+    {
+        "country": "asc"
+    },
+    {
+        "country": "vnm"
+    },
+    {
+        "country": "gab"
+    },
+    {
+        "country": "hti"
+    },
+    {
+        "country": "gmb"
+    },
+    {
+        "country": "gha"
+    },
+    {
+        "country": "glp"
+    },
+    {
+        "country": "gtm"
+    },
+    {
+        "country": "gin"
+    },
+    {
+        "country": "gnb"
+    },
+    {
+        "country": "deu"
+    },
+    {
+        "country": "gib"
+    },
+    {
+        "country": "hnd"
+    },
+    {
+        "country": "hkg"
+    },
+    {
+        "country": "grd"
+    },
+    {
+        "country": "grl"
+    },
+    {
+        "country": "grc"
+    },
+    {
+        "country": "geo"
+    },
+    {
+        "country": "gum"
+    },
+    {
+        "country": "dnk"
+    },
+    {
+        "country": "dji"
+    },
+    {
+        "country": "dma"
+    },
+    {
+        "country": "egy"
+    },
+    {
+        "country": "zmb"
+    },
+    {
+        "country": "zwe"
+    },
+    {
+        "country": "isr"
+    },
+    {
+        "country": "ind"
+    },
+    {
+        "country": "idn"
+    },
+    {
+        "country": "jor"
+    },
+    {
+        "country": "irq"
+    },
+    {
+        "country": "irn"
+    },
+    {
+        "country": "irl"
+    },
+    {
+        "country": "isl"
+    },
+    {
+        "country": "esp"
+    },
+    {
+        "country": "ita"
+    },
+    {
+        "country": "yem"
+    },
+    {
+        "country": "cpv"
+    },
+    {
+        "country": "kaz"
+    },
+    {
+        "country": "khm"
+    },
+    {
+        "country": "cmr"
+    },
+    {
+        "country": "can"
+    },
+    {
+        "country": "qat"
+    },
+    {
+        "country": "ken"
+    },
+    {
+        "country": "cyp"
+    },
+    {
+        "country": "kgz"
+    },
+    {
+        "country": "kir"
+    },
+    {
+        "country": "chn"
+    },
+    {
+        "country": "prk"
+    },
+    {
+        "country": "col"
+    },
+    {
+        "country": "kom"
+    },
+    {
+        "country": "cri"
+    },
+    {
+        "country": "cub"
+    },
+    {
+        "country": "kwt"
+    },
+    {
+        "country": "cok"
+    },
+    {
+        "country": "lao"
+    },
+    {
+        "country": "lva"
+    },
+    {
+        "country": "lso"
+    },
+    {
+        "country": "lbr"
+    },
+    {
+        "country": "lbn"
+    },
+    {
+        "country": "lby"
+    },
+    {
+        "country": "ltu"
+    },
+    {
+        "country": "lie"
+    },
+    {
+        "country": "lux"
+    },
+    {
+        "country": "mus"
+    },
+    {
+        "country": "mrt"
+    },
+    {
+        "country": "mdg"
+    },
+    {
+        "country": "mac"
+    },
+    {
+        "country": "mkd"
+    },
+    {
+        "country": "mwi"
+    },
+    {
+        "country": "mys"
+    },
+    {
+        "country": "mli"
+    },
+    {
+        "country": "mlt"
+    },
+    {
+        "country": "mar"
+    },
+    {
+        "country": "mtq"
+    },
+    {
+        "country": "mex"
+    },
+    {
+        "country": "fsm"
+    },
+    {
+        "country": "moz"
+    },
+    {
+        "country": "mco"
+    },
+    {
+        "country": "mng"
+    },
+    {
+        "country": "msr"
+    },
+    {
+        "country": "mmr"
+    },
+    {
+        "country": "nam"
+    },
+    {
+        "country": "npl"
+    },
+    {
+        "country": "ner"
+    },
+    {
+        "country": "nga"
+    },
+    {
+        "country": "nld"
+    },
+    {
+        "country": "nic"
+    },
+    {
+        "country": "nzl"
+    },
+    {
+        "country": "ncl"
+    },
+    {
+        "country": "nor"
+    },
+    {
+        "country": "omn"
+    },
+    {
+        "country": "pak"
+    },
+    {
+        "country": "plw"
+    },
+    {
+        "country": "pse"
+    },
+    {
+        "country": "pan"
+    },
+    {
+        "country": "pry"
+    },
+    {
+        "country": "per"
+    },
+    {
+        "country": "pol"
+    },
+    {
+        "country": "prt"
+    },
+    {
+        "country": "pri"
+    },
+    {
+        "country": "reu"
+    },
+    {
+        "country": "cxr"
+    },
+    {
+        "country": "rwa"
+    },
+    {
+        "country": "rom"
+    },
+    {
+        "country": "slv"
+    },
+    {
+        "country": "wsm"
+    },
+    {
+        "country": "swz"
+    },
+    {
+        "country": "mnp"
+    },
+    {
+        "country": "syc"
+    },
+    {
+        "country": "blm"
+    },
+    {
+        "country": "maf"
+    },
+    {
+        "country": "sen"
+    },
+    {
+        "country": "lca"
+    },
+    {
+        "country": "srb"
+    },
+    {
+        "country": "sgp"
+    },
+    {
+        "country": "syr"
+    },
+    {
+        "country": "svk"
+    },
+    {
+        "country": "svn"
+    },
+    {
+        "country": "slb"
+    },
+    {
+        "country": "som"
+    },
+    {
+        "country": "sdn"
+    },
+    {
+        "country": "sur"
+    },
+    {
+        "country": "usa"
+    },
+    {
+        "country": "sle"
+    },
+    {
+        "country": "tjk"
+    },
+    {
+        "country": "tha"
+    },
+    {
+        "country": "twn"
+    },
+    {
+        "country": "tza"
+    },
+    {
+        "country": "tca"
+    },
+    {
+        "country": "tgo"
+    },
+    {
+        "country": "tto"
+    },
+    {
+        "country": "tuv"
+    },
+    {
+        "country": "tun"
+    },
+    {
+        "country": "tur"
+    },
+    {
+        "country": "uga"
+    },
+    {
+        "country": "uzb"
+    },
+    {
+        "country": "ukr"
+    },
+    {
+        "country": "ury"
+    },
+    {
+        "country": "fro"
+    },
+    {
+        "country": "fji"
+    },
+    {
+        "country": "phl"
+    },
+    {
+        "country": "fin"
+    },
+    {
+        "country": "fkl"
+    },
+    {
+        "country": "fra"
+    },
+    {
+        "country": "pyf"
+    },
+    {
+        "country": "hrv"
+    },
+    {
+        "country": "tcd"
+    },
+    {
+        "country": "mne"
+    },
+    {
+        "country": "cze"
+    },
+    {
+        "country": "chl"
+    },
+    {
+        "country": "che"
+    },
+    {
+        "country": "swe"
+    },
+    {
+        "country": "lka"
+    },
+    {
+        "country": "ecu"
+    },
+    {
+        "country": "gnq"
+    },
+    {
+        "country": "eri"
+    },
+    {
+        "country": "est"
+    },
+    {
+        "country": "eth"
+    },
+    {
+        "country": "zaf"
+    },
+    {
+        "country": "jam"
+    },
+    {
+        "country": "jpn"
+    }
+]
