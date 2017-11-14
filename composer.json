@@ -1,0 +1,17 @@
+{
+    "name": "shevernistkiy/tariffrp",
+    "description": "Usage tariff.russianpost.ru with php class",
+    "type": "library",
+    "authors": [
+        {
+            "name": "shevernitskiy",
+            "email": "hwork@list.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "tariffRP.class.php"
+        ]
+    }
+}
